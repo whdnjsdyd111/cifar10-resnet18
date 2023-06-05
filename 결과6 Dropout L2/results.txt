@@ -1,0 +1,3 @@
+
+
+epochs-150, lr-0.1000, batch-128, model_num-3 results: 94.610000

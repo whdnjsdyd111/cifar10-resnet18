@@ -1,0 +1,8 @@
+Start!
+t_loss:   1.313 t_acc: 45.570 e_loss:   0.006 e_acc: 84.240
+t_loss:   1.156 t_acc: 53.452 e_loss:   0.004 e_acc: 88.040
+t_loss:   1.015 t_acc: 54.448 e_loss:   0.003 e_acc: 89.880
+t_loss:   0.889 t_acc: 55.218 e_loss:   0.003 e_acc: 90.880
+t_loss:   0.777 t_acc: 55.010 e_loss:   0.003 e_acc: 91.400
+t_loss:   0.677 t_acc: 55.112 e_loss:   0.003 e_acc: 90.990
+t_loss:   0.590 t_acc: 55.622 e_loss:   0.003 e_acc: 89.940

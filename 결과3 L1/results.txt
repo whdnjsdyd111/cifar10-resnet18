@@ -1,0 +1,15 @@
+
+
+
+epochs-50, lr-0.1000, batch-128, model_num-3 results: 97.210000
+epochs-60, lr-0.1000, batch-128, model_num-3 results: 97.300000
+epochs-70, lr-0.1000, batch-128, model_num-3 results: 97.280000
+epochs-50, lr-0.0500, batch-128, model_num-3 results: 96.660000
+epochs-60, lr-0.0500, batch-128, model_num-3 results: 96.770000
+epochs-70, lr-0.0500, batch-128, model_num-3 results: 96.830000
+epochs-50, lr-0.0100, batch-128, model_num-3 results: 96.060000
+
+epochs-60, lr-0.0100, batch-128, model_num-3 results: 95.920000
+
+epochs-50, lr-0.1000, batch-128, model_num-3 results: 93.000000
+epochs-60, lr-0.1000, batch-128, model_num-3 results: 92.620000

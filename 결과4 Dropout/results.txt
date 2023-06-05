@@ -1,0 +1,7 @@
+
+
+epochs-50, lr-0.1000, batch-128, model_num-3 results: 90.910000
+epochs-60, lr-0.1000, batch-128, model_num-3 results: 91.270000
+epochs-70, lr-0.1000, batch-128, model_num-3 results: 92.790000
+epochs-50, lr-0.0500, batch-128, model_num-3 results: 93.350000
+epochs-60, lr-0.0500, batch-128, model_num-3 results: 93.020000
